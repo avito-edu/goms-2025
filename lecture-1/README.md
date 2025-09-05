@@ -54,12 +54,29 @@ func main() {
 ```
 - **Комментарии**: `//` или `/* */`.
 
+
+
 #### **5. Переменные и типы**
 - **Типы**: `int`, `float64`, `string`, `bool`.
 - **Zero-values**: `0`, `""`, `false` (значения по умолчанию).
 - **Объявление**:
     - `var x int = 10`
     - `y := "text"`
+
+**Простой пользовательский ввод**:
+```go
+func main() {
+  fmt.Println("Input: ")
+  
+  _, err := fmt.Scan(&x)
+  if err != nil {
+    fmt.Println("Error: ", err)
+  }
+  
+  fmt.Println("You've typed", x)
+}
+```
+
 
 #### **6. Константы и iota**
 ```go
@@ -117,6 +134,14 @@ const (
 ...
 
 
+> [!IMPORTANT]
+>
+> [👉🏻ДомашкоЛаба]()
 
 ###
 [Практика 1](https://go.dev/play/p/iC3CPd3NEV9)
+
+
+> [!TIP]
+> Optional information to help a user be more successful.
+Refs.
