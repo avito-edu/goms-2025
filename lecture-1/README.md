@@ -136,12 +136,14 @@ const (
 
 > [!IMPORTANT]
 >
-> [👉🏻ДомашкоЛаба]()
+> [👉🏻ДомашкоЛаба](https://classroom.github.com/a/-qxTnabw)
 
 ###
 [Практика 1](https://go.dev/play/p/iC3CPd3NEV9)
 
 
-> [!TIP]
-> Optional information to help a user be more successful.
-Refs.
+[//]: # (> [!TIP])
+
+[//]: # (> Optional information to help a user be more successful.)
+
+[//]: # (Refs.)
