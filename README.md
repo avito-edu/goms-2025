@@ -16,10 +16,30 @@
 >
 > ✔ Микросервисы – делаем так, чтобы сервисы общались между собой, а не игнорили друг друга, как соседи по подъезду.
 
+# Практико/Лабы
+
+> [!IMPORTANT]
+>
+> $\color{#ab7df866}{\text{Актуальная ЛР: goms-lab-4}}$
+> 🥺👉 [тык](https://classroom.github.com/a/px7jJU3G) 👈
+
+## Список Assignments
+|Нумер Ссылка| Дед Лайн |
+|:---:|:---:|
+|[goms-2025-practice](https://classroom.github.com/a/-qxTnabw)|🥤🗿|
+|[goms-2025-lab-1](https://classroom.github.com/a/0J7Ykhk-)|24.09.2025|
+|[goms-2025-lab-2](https://classroom.github.com/a/87ylncIN)|08.10.2025|
+|[goms-2025-lab-3](https://classroom.github.com/a/KiczftbQ)|22.10.2025|
+|[goms-2025-lab-4](https://classroom.github.com/a/px7jJU3G)|12.11.2025|
+
+
 # Конспекты
 
 [Лекция-1](./lecture-1/README.md)
 
 [Лекция-2](./lecture-2/README.md)
+
+[Лекция-3](./lecture-3/README.md)
+
 
 
