@@ -41,5 +41,7 @@
 
 [Лекция-3](./lecture-3/README.md)
 
+[Лекция-8](./lecture-8/README.md)
+
 
 
