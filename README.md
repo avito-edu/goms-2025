@@ -20,8 +20,8 @@
 
 > [!IMPORTANT]
 >
-> $\color{#ab7df866}{\text{Актуальная ЛР: goms-lab-5}}$
-> 🥺👉 [тык](https://classroom.github.com/a/v03duFWr) 👈
+> $\color{#ab7df866}{\text{Актуальная ЛР: goms-lab-6}}$
+> 🥺👉 [тык](https://classroom.github.com/a/chbMLcsj) 👈
 
 ## Список Assignments
 |                         Нумер Ссылка                          |  Дед Лайн  |
@@ -32,6 +32,7 @@
 |  [goms-2025-lab-3](https://classroom.github.com/a/KiczftbQ)   | 22.10.2025 |
 |  [goms-2025-lab-4](https://classroom.github.com/a/px7jJU3G)   | 12.11.2025 |
 |  [goms-2025-lab-5](https://classroom.github.com/a/v03duFWr)   | 10.12.2025 |
+|  [goms-2025-lab-6](https://classroom.github.com/a/chbMLcsj)   | 10.12.2025 |
 
 
 # Конспекты
@@ -41,6 +42,8 @@
 - [Лекция-3](./lecture-3/README.md)
 - [Лекция-8](./lecture-8/README.md)
 - [Лекция-14](./lecture-14/README.md)
+- [Лекция-15](./lecture-15/README.md)
+- [Лекция-16](./lecture-16/README.md)
 
 
 

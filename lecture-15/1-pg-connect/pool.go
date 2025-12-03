@@ -1,7 +1,9 @@
 package main
 
 import (
+	"context"
 	"database/sql"
+	"log"
 	"time"
 )
 
@@ -26,17 +28,17 @@ func main() {
 	db.SetMaxIdleConns(10)           // Макс. соединений в режиме ожидания
 	db.SetConnMaxLifetime(time.Hour) // Время жизни соединения
 
-	x := sql.ErrNoRows
+	// x := sql.ErrNoRows
 
-	tx, err := db.BeginTx(ctx, nil)
+	tx, err := db.BeginTx(context.Background(), nil)
 	if err != nil {
-		return err
+		log.Fatal(err)
 	}
 	defer tx.Rollback() // rollback - на всякий случай
 
 	// ...ИСПОЛНЯЕМ SQL...
 
 	if err := tx.Commit(); err != nil {
-		return err
+		log.Fatal(err)
 	}
 }
