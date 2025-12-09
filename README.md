@@ -32,7 +32,7 @@
 |  [goms-2025-lab-3](https://classroom.github.com/a/KiczftbQ)   | 22.10.2025 |
 |  [goms-2025-lab-4](https://classroom.github.com/a/px7jJU3G)   | 12.11.2025 |
 |  [goms-2025-lab-5](https://classroom.github.com/a/v03duFWr)   | 10.12.2025 |
-|  [goms-2025-lab-6](https://classroom.github.com/a/chbMLcsj)   | 10.12.2025 |
+|  [goms-2025-lab-6](https://classroom.github.com/a/chbMLcsj)   | 🔥 19.12.2025 🔥|
 
 
 # Конспекты
